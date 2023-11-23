@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Stock Detail</title>
+</head>
+<body>
+    <h1>Stock Detail</h1>
+    {{ stock_data | safe }}
+    <br>
+    <a href="{% url 'stock_detail' %}">Back to Stock Form</a>
+</body>
+</html>
