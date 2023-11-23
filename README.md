@@ -6,5 +6,5 @@
 4. Run the server - ```python manage.py runserver```'
 5. Open Postman and select get request - example request - ```http://localhost:8000/api/stock/MSFT/```
 6. Navigate to this URL - ```http://localhost:8000/api/stock/<symbol>/```
-7. 
+ 
    Note - <symbol> indicates stock. for example, use MSFT, AMZN, GOOGL etc. 
