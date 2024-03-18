@@ -1,4 +1,4 @@
-# Submission_WrightResearch
+# Django-StockData-API
 
 1. Clone the repository - ```git clone https://github.com/yourusername/Submission_WrightResearch.git```
 2. Navigate to the repo
